@@ -16,8 +16,13 @@
 例：
 
 会议论文参考文献格式：
+
 ![image](https://github.com/coderZMR/CodeRecommendSynthesis/blob/master/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%A0%BC%E5%BC%8F.JPG)
+
 期刊论文参考文献格式：
+
 ![image](https://github.com/coderZMR/CodeRecommendSynthesis/blob/master/%E6%9C%9F%E5%88%8A%E8%AE%BA%E6%96%87%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%A0%BC%E5%BC%8F.JPG)
+
 ArXiv论文参考文献格式：
+
 ![image](https://github.com/coderZMR/CodeRecommendSynthesis/blob/master/ArXiv%E8%AE%BA%E6%96%87%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%A0%BC%E5%BC%8F.JPG)
