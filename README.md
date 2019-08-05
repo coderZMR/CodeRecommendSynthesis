@@ -11,7 +11,7 @@
 文章介绍性文字：
 对文章的所研究的问题、研究思路、解决方案、特点、输入数据等进行概括形成两三句话。
 ## 参考文献格式
-按照SCIENCE CHINA Information Sciences期刊的参考文献格式
+按照SCIENCE CHINA Information Sciences期刊的参考文献格式，注意作者仅保留前三位，其余用“et al”表示。
 
 例：
 
